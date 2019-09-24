@@ -1,0 +1,51 @@
+Based on the PyMoli purchase data, following are the 3 conclusions which can be drawn
+1. As shown in following aggregated data, majority of the players are Male, so does their total purchase value
+
+			Total Count	Percentage of Players
+Male			484		84.03%
+Female			81		14.06%
+Other / Non-Disclosed	11		1.91%
+
+but, average purchase price is almost same irrespective of the Gender.
+			Purchase Count	Average Purchase Price	Total Purchase Value	Avg Total Purchase per Person
+Gender				
+Female			113		$3.20			$361.94			$4.47
+Male			652		$3.02			$1,967.64		$4.07
+Other / Non-Disclosed	15		$3.35			$50.19			$4.56
+
+2. As per data, most of the players (76%) who has done the purchase are between age group of 15 to 29.
+
+	Total Count	Percentage of Players
+<10	17		2.95%
+10-14	22		3.82%
+15-19	107		18.58%
+20-24	258		44.79%
+25-29	77		13.37%
+30-34	52		9.03%
+35-39	31		5.38%
+40+	12		2.08%
+
+Data also shows that, players between age group of 15 to 29 has done majority of the purchase, but average purchase
+price is almost same for all age groups.
+
+		Purchase Count	Average Purchase Price	Total Purchase Value	Average Total Purchase per Person
+Age Ranges				
+<10		23		$3.35			$77.13			$4.54
+10-14		28		$2.96			$82.78			$3.76
+15-19		136		$3.04			$412.89			$3.86
+20-24		365		$3.05			$1,114.06		$4.32
+25-29		101		$2.90			$293.00			$3.81
+30-34		73		$2.93			$214.00			$4.12
+35-39		41		$3.60			$147.67			$4.76
+40+		13		$2.94			$38.24			$3.19
+
+3. As per data, most popular and profitable item is "Oathbreaker, Last Hope of the Breaking Storm", which has highest 
+purchase value i.e. %50.76 & purchase count as 12.
+
+							Purchase Count	Item Price	Total Purchase Value
+Item ID	Item Name			
+178	Oathbreaker, Last Hope of the Breaking Storm	12		$4.23		$50.76
+82	Nirvana						9		$4.90		$44.10
+145	Fiery Glass Crusader				9		$4.58		$41.22
+92	Final Critic					8		$4.88		$39.04
+103	Singed Scalpel					8		$4.35		$34.80
